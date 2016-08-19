@@ -1,0 +1,13 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "881f823f-e554-4955-894c-86f5957d97e4"
+  core:
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  "exception-reporting":
+    userId: "f933441a-3a7b-2d65-1855-45430d475e08"
+  welcome:
+    showOnStartup: false
