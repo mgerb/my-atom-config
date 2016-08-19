@@ -1,0 +1,13 @@
+{
+  "name": "atom-config",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "export": "apm list --installed --bare > backup.txt",
+    "import": "apm install --packages-file backup.txt",
+    "push": "git add -A && git commit -m \"another one\" && git push origin master",
+    "sync": "npm run export && npm run push"
+  },
+  "author": "Mitchell Gerber",
+  "license": "MIT"
+}

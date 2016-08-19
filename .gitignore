@@ -1,0 +1,16 @@
+.node-gyp
+.npm
+.apm
+.node-gyp
+.DS_Store
+
+blob-store
+compile-cache
+dev
+storage
+recovery
+storage
+packages
+
+npm-debug.log
+init.coffee
