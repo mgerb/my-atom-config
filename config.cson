@@ -2,6 +2,7 @@
   "atom-beautify":
     general:
       _analyticsUserId: "881f823f-e554-4955-894c-86f5957d97e4"
+  "atom-terminal": {}
   core:
     themes: [
       "seti-ui"
